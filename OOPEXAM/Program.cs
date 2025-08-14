@@ -6,7 +6,7 @@ namespace OOPEXAM
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }
